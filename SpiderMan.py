@@ -30,3 +30,4 @@ class SpiderMan(object):
 if __name__ == '__main__':
     spider_man = SpiderMan()
     spider_man.crawl("https://baike.baidu.com/item/%E7%BD%91%E7%BB%9C%E7%88%AC%E8%99%AB")
+# git test
